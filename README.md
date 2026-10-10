@@ -79,3 +79,8 @@ auto-detected. Override with `--url`, `--token`, `--model` as needed.
   refused by the server; save idle slots when possible.
 - Saved files are large (hundreds of MB to GBs, proportional to the cached
   context); prune the cache directory as needed.
+
+
+## License
+
+Under GPL 3.0 license. See LICENSE file.
